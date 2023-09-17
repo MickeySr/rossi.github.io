@@ -1,2 +1,0 @@
-# rossi.github.io
-pag
